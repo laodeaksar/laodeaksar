@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akhsar21&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Akhsar21&show_icons=true&hide=issues">
+</p>
