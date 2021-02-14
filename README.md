@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Akhsar21/Akhsar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aksar La'ode/Akhsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akhsar21&layout=compact" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Akhsar21&show_icons=true&hide=issues">
+   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laodeaksar&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=laodeaksar&show_icons=true&hide=issues">
 </p>
