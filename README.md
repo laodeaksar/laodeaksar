@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ode_aksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/laodeaksar/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ode_aksar" height="30" width="40" /></a>
-<a href="https://fb.com/akhsar21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/facebook.svg" alt="akhsar21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/laodeaksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/youtube.svg" alt="laodeaksar" height="30" width="40" /></a>
-<a href="/https://laodeaksar.eu.org/rss.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/rss.svg" alt="https://laodeaksar.eu.org/rss.xml" height="30" width="40" /></a>
+<a href="https://fb.com/akhsar21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/laodeaksar/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhsar21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/laodeaksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/laodeaksar/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laodeaksar" height="30" width="40" /></a>
+<a href="/https://laodeaksar.eu.org/rss.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/laodeaksar/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://laodeaksar.eu.org/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
