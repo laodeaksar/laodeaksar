@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aksar La'ode</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laodeaksar&label=Profile%20views&color=0e75b6&style=flat" alt="laodeaksar" /> </p>
 
@@ -7,9 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/ode_aksar" target="blank"><img src="https://img.shields.io/twitter/follow/ode_aksar?logo=twitter&style=for-the-badge" alt="ode_aksar" /></a> </p>
 
+- 📝 I regularly write articles on [https://laodeaksar.eu.org](https://laodeaksar.eu.org)
+
+- 💬 Ask me about **react, nextjs**
+
+- 📫 How to reach me **me@laodeaksar.eu.org**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ode_aksar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ode_aksar" height="30" width="40" /></a>
+<a href="https://fb.com/akhsar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="akhsar21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/laodeaksar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="laodeaksar" height="30" width="40" /></a>
+<a href="/https://laodeaksar.eu.org/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://laodeaksar.eu.org/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
