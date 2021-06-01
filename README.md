@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple test to ensure that all dependencies have a pinned version](https://laodeaksar.eu.org/snippets/2020-10-8-simpletesttoensurethatalldependencieshaveapinnedversion)
+- [Using Flow generics to type generic React components](https://laodeaksar.eu.org/blogs/using-flow-generics-to-type-generic-react-components-22dd642634d8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
