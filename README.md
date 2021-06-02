@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/ode_aksar" target="blank"><img src="https://img.shields.io/twitter/follow/ode_aksar?logo=twitter&style=for-the-badge" alt="ode_aksar" /></a> </p>
 
+- 🔭 I’m currently working on [Aksar La'ode](https://laodeaksar.eu.org)
+
+- 👨‍💻 All of my projects are available at [https://laodeaksar.eu.org/projects](https://laodeaksar.eu.org/projects)
+
 - 📝 I regularly write articles on [https://laodeaksar.eu.org](https://laodeaksar.eu.org)
 
 - 💬 Ask me about **react, nextjs**
