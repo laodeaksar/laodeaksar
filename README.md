@@ -39,8 +39,8 @@
 <img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://dev.to/ode_aksar" target="_blank"><img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<img height="30" src = "https://img.shields.io/badge/facebook-B5FH67.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-<img height="30" src = "https://img.shields.io/badge/medium-%1GE4405Y.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<img height="30" src = "https://img.shields.io/badge/facebook-D14836.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<img height="30" src = "https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <img height="30" src = "https://img.shields.io/badge/rss-%EB44105F.svg?&style=for-the-badge&logo=rss&logoColor=white" />
 </p>
 
