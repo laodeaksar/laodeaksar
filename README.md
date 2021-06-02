@@ -29,7 +29,7 @@
 <img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://dev.to/ode_aksar" target="_blank"><img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://fb.com/akhsar21" target="_blank"><img height="30" src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://fb.com/akhsar21" target="_blank"><img height="30" src = "https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://medium.com/@ode_aksar" target="_blank"><img height="30" src = "https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://laodeaksar.eu.org/rss.xml" target="_blank"><img height="30" src = "https://img.shields.io/badge/rss-%EB44105F.svg?&style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
