@@ -25,23 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ode_aksar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ode_aksar" height="30" width="40" /></a>
-<a href="https://twitter.com/ode_aksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ode_aksar" height="30" width="40" /></a>
-<a href="https://fb.com/akhsar21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhsar21" height="30" width="40" /></a>
-<a href="https://medium.com/@ode_aksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ode_aksar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/laodeaksar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laodeaksar" height="30" width="40" /></a>
-<a href="/https://laodeaksar.eu.org/rss.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://laodeaksar.eu.org/rss.xml" height="30" width="40" /></a>
-</p>
-
-<p align="left">
 <a href="https://twitter.com/ode_aksar" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://dev.to/ode_aksar" target="_blank"><img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<img height="30" src = "https://img.shields.io/badge/facebook-D14836.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-<img height="30" src = "https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-<img height="30" src = "https://img.shields.io/badge/rss-%EB44105F.svg?&style=for-the-badge&logo=rss&logoColor=white" />
+<a href="https://fb.com/akhsar21" target="_blank"><img height="30" src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://medium.com/@ode_aksar" target="_blank"><img height="30" src = "https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://laodeaksar.eu.org/rss.xml" target="_blank"><img height="30" src = "https://img.shields.io/badge/rss-%EB44105F.svg?&style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
